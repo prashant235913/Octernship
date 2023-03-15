@@ -41,8 +41,7 @@ We want you to identify a unique monetization opportunity with B2C AI applicatio
 
 <h3>Task submission</h4>
 
-Students are expected to use the GitHub Flow when working on their project.
-Making changes on the auto generated feedback branch to complete the task
+Students are expected to submit their work as either presentations/ video submissions/ live product demos, etc.
 Using the auto generated Feedback Pull Request for review and submission
 Using GitHub Discussions to ask any relevant questions regarding the project
 
